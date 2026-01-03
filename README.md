@@ -194,7 +194,7 @@ console.log(`Hello! I'm ${alperen.name}, a ${alperen.role}`);
 
 <div align="center">
   
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=NashChat&theme=onestar&no-frame=false&column=7&margin-w=15&margin-h=15&title=MultiLanguage,Commits,Issues,PullRequest,Repositories,Stars,Followers">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=alperen&theme=onestar&no-frame=false&column=7&margin-w=15&margin-h=15&title=MultiLanguage,Commits,Issues,PullRequest,Repositories,Stars,Followers">
   
 </div>
 
@@ -202,7 +202,7 @@ console.log(`Hello! I'm ${alperen.name}, a ${alperen.role}`);
 
 <div align="center">
   
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=alperenW2&theme=github-dark&bg_color=0a0015&color=c084fc&line=9333ea&point=ffffff&area=true&hide_border=false&area_color=9333ea">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=alperen&theme=github-dark&bg_color=0a0015&color=c084fc&line=9333ea&point=ffffff&area=true&hide_border=false&area_color=9333ea">
   
 </div>
 
