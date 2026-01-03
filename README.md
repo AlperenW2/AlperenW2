@@ -211,14 +211,6 @@ console.log(`Hello! I'm ${alperen.name}, a ${alperen.role}`);
 ---
 
 <div align="center">
-  
-### 🎯 GitHub Contribution Graph
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlperenW2t&theme=github-dark&bg_color=0a0015&color=c084fc&line=9333ea&point=ffffff&area=true&hide_border=false&area_color=9333ea" width="100%">
-  
-</div>
-
-<br>
 
 ---
 
