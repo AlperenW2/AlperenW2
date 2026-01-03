@@ -186,7 +186,7 @@ console.log(`Hello! I'm ${alperen.name}, a ${alperen.role}`);
 
 <div align="center">
   
-  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=utw0&theme=dark&hide_border=false&stroke=9333EA&fire=C084FC&currStreakNum=FFFFFF&currStreakLabel=C084FC&ring=9333EA&background=0a0015&border=9333EA&dates=FFFFFF">
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=alperen&theme=dark&hide_border=false&stroke=9333EA&fire=C084FC&currStreakNum=FFFFFF&currStreakLabel=C084FC&ring=9333EA&background=0a0015&border=9333EA&dates=FFFFFF">
   
 </div>
 
@@ -202,7 +202,7 @@ console.log(`Hello! I'm ${alperen.name}, a ${alperen.role}`);
 
 <div align="center">
   
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AlperenW2&theme=github-dark&bg_color=0a0015&color=c084fc&line=9333ea&point=ffffff&area=true&hide_border=false&area_color=9333ea">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=alperenW2&theme=github-dark&bg_color=0a0015&color=c084fc&line=9333ea&point=ffffff&area=true&hide_border=false&area_color=9333ea">
   
 </div>
 
@@ -218,9 +218,9 @@ console.log(`Hello! I'm ${alperen.name}, a ${alperen.role}`);
   
 ### ⚡ Quick Stats
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=utw0&show_icons=true&theme=radical&hide_border=false&title_color=9333EA&icon_color=C084FC&text_color=FFFFFF&bg_color=0a0015)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alperen&show_icons=true&theme=radical&hide_border=false&title_color=9333EA&icon_color=C084FC&text_color=FFFFFF&bg_color=0a0015)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=utw0&layout=compact&theme=radical&hide_border=false&title_color=9333EA&text_color=FFFFFF&bg_color=0a0015&hide=html,css)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alperen&layout=compact&theme=radical&hide_border=false&title_color=9333EA&text_color=FFFFFF&bg_color=0a0015&hide=html,css)
   
 </div>
 
