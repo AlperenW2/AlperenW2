@@ -178,7 +178,7 @@ console.log(`Hello! I'm ${alperen.name}, a ${alperen.role}`);
 
 <div align="center">
   
-  <img width="80%" src="https://awesome-github-stats.azurewebsites.net/user-stats/AlperenW2?cardType=github&theme=github-dark&showIcons=true&preferLogin=false&Border=9333EA&Ring=C084FC&Title=C084FC&Background=0a0015&Text=FFFFFF&Hide=stars">
+  <img width="80%" src="https://awesome-github-stats.azurewebsites.net/user-stats/utw0?cardType=github&theme=github-dark&showIcons=true&preferLogin=false&Border=9333EA&Ring=C084FC&Title=C084FC&Background=0a0015&Text=FFFFFF&Hide=stars">
   
 </div>
 
@@ -186,7 +186,7 @@ console.log(`Hello! I'm ${alperen.name}, a ${alperen.role}`);
 
 <div align="center">
   
-  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=Alperen&theme=dark&hide_border=false&stroke=9333EA&fire=C084FC&currStreakNum=FFFFFF&currStreakLabel=C084FC&ring=9333EA&background=0a0015&border=9333EA&dates=FFFFFF">
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=utw0&theme=dark&hide_border=false&stroke=9333EA&fire=C084FC&currStreakNum=FFFFFF&currStreakLabel=C084FC&ring=9333EA&background=0a0015&border=9333EA&dates=FFFFFF">
   
 </div>
 
@@ -218,9 +218,9 @@ console.log(`Hello! I'm ${alperen.name}, a ${alperen.role}`);
   
 ### ⚡ Quick Stats
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NashChat&show_icons=true&theme=radical&hide_border=false&title_color=9333EA&icon_color=C084FC&text_color=FFFFFF&bg_color=0a0015)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=utw0&show_icons=true&theme=radical&hide_border=false&title_color=9333EA&icon_color=C084FC&text_color=FFFFFF&bg_color=0a0015)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NashChat&layout=compact&theme=radical&hide_border=false&title_color=9333EA&text_color=FFFFFF&bg_color=0a0015&hide=html,css)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=utw0&layout=compact&theme=radical&hide_border=false&title_color=9333EA&text_color=FFFFFF&bg_color=0a0015&hide=html,css)
   
 </div>
 
