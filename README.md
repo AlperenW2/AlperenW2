@@ -178,7 +178,7 @@ console.log(`Hello! I'm ${alperen.name}, a ${alperen.role}`);
 
 <div align="center">
   
-  <img width="80%" src="https://awesome-github-stats.azurewebsites.net/user-stats/utw0?cardType=github&theme=github-dark&showIcons=true&preferLogin=false&Border=9333EA&Ring=C084FC&Title=C084FC&Background=0a0015&Text=FFFFFF&Hide=stars">
+  <img width="80%" src="https://awesome-github-stats.azurewebsites.net/user-stats/Alperen?cardType=github&theme=github-dark&showIcons=true&preferLogin=false&Border=9333EA&Ring=C084FC&Title=C084FC&Background=0a0015&Text=FFFFFF&Hide=stars">
   
 </div>
 
