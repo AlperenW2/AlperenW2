@@ -237,12 +237,7 @@ console.log(`Hello! I'm ${alperen.name}, a ${alperen.role}`);
 ---
 
 <div align="center">
-  
-### 🐍 Snake Game Contribution
-  
-  ![Snake animation](https://github.com/NashChat/AlperenW2/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
+
 
 <br>
 
@@ -250,7 +245,7 @@ console.log(`Hello! I'm ${alperen.name}, a ${alperen.role}`);
 
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=9333EA&height=100&section=footer&text=Eyvallah%20Bakdığın%2İçin!%20✨%20Come%20back%20soon&fontSize=30&fontColor=FFFFFF&animation=twinkling">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9333EA&height=100&section=footer&text=Eyvallah%20Bakdığın%2için!%20✨%20Come%20back%20soon&fontSize=30&fontColor=FFFFFF&animation=twinkling">
   
 </div>
 
