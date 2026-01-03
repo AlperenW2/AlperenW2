@@ -243,9 +243,9 @@ console.log(`Hello! I'm ${alperen.name}, a ${alperen.role}`);
 
 <div align="center">
   
-  ### Pozitif Olucaksınız ABİİİİ
+  ### insta alperen.mjs
   
-  ![GitHub followers](https://img.shields.io/github/followers/NashChat?style=social)
-  ![GitHub stars](https://img.shields.io/github/stars/NashChat?style=social)
+  ![GitHub followers](https://img.shields.io/github/followers/alperen?style=social)
+  ![GitHub stars](https://img.shields.io/github/stars/alperen?style=social)
   
 </div>
